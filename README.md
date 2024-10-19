@@ -1,7 +1,9 @@
 
 
-Car Sales by Model Analysis 🚗💼
-Project Overview
+Car Sales by Model Analysis 🚗💼:
+
+Project Overview:
+
 This project analyses car sales data across various models to provide insights into sales performance, profitability, and inventory management. The analysis was conducted using Excel, with interactive dashboards to visualize key metrics and trends.
 
 Key Features of the Analysis:
